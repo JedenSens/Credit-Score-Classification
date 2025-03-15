@@ -51,3 +51,4 @@ rsconnect/
 # Manually added: Ignore PDF and CSV files
 *.pdf
 *.csv
+*.xlsx
