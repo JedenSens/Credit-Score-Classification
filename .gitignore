@@ -48,7 +48,5 @@ po/*~
 # RStudio Connect folder
 rsconnect/
 
-# Manually added: Ignore PDF and CSV files
-*.pdf
-*.csv
-*.xlsx
+# Manually added: Ignore PPT files
+*.ppt
