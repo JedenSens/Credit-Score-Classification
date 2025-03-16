@@ -19,5 +19,5 @@ To create a robust system capable of segmenting customers into credit score grad
 
 ## 🗂️ Repository Structure
 - `scripts/`: R scripts for data cleaning, data processing and model development
-- `CreditDataset.csv`: Dataset used for analysis (not included due to privacy)
+- `CreditDataset.csv`: Raw dataset used for the project
 - `Project_presentation.pdf`: Project documentation and report (PT version)
