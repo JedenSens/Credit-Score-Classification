@@ -4,10 +4,10 @@
 
 ## 📊 Project Overview
 
-As a Data Science Master's student, I've taken on the role of a data scientist at a global financial firm. This project aims to develop an intelligent system for credit score classification, streamlining the manual research process for customer segmentation.
+As part of a group project for our Master's in Data Science, we developed a system to automate customer segmentation based on credit scores. This project allowed us to apply our academic knowledge to a practical financial challenge.
 
 ### 🎯 Main Objective
-To create a robust system capable of segmenting customers into credit score grades:
+Create a robust system capable of segmenting customers into credit score grades:
 - 🟢 Good
 - 🟡 Standard
 - 🔴 Poor
