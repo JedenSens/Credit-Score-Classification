@@ -13,9 +13,9 @@ To create a robust system capable of segmenting customers into credit score grad
 - 🔴 Poor
 
 ## 🛠️ Tools & Technologies
-- R for data analysis and modeling
+- R for Data Analysis and Modeling
 - Machine Learning algorithms for classification
-- Data visualization techniques
+- Data Visualization techniques
 
 ## 🗂️ Repository Structure
 - `scripts/`: R scripts for Data Cleaning, Data Processing and Model Development
