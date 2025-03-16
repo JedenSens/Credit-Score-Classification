@@ -18,6 +18,6 @@ To create a robust system capable of segmenting customers into credit score grad
 - Data visualization techniques
 
 ## 🗂️ Repository Structure
-- `scripts/`: R scripts for data cleaning, data processing and model development
+- `scripts/`: R scripts for Data Cleaning, Data Processing and Model Development
 - `CreditDataset.csv`: Raw dataset used for the project
 - `Project_presentation.pdf`: Project documentation and report (PT version)
